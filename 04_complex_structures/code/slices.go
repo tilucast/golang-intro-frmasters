@@ -1,17 +1,23 @@
 package main
 
-// import "fmt"
+//func main() {
 
-// func main() {
+// var myArray [5]int
+// //var mySlice []int
+// var makearray = make([]int, 5, 10)
 
-// 	var myArray [5]int
-// 	var mySlice []int
+// myArray[0] = 1
+// //mySlice[0] = 1s
+// makearray[0] = 1
 
-// 	myArray[0] = 1
-// 	mySlice[0] = 1
+// fmt.Println(myArray)
+// fmt.Println(makearray)
+// fmt.Println(cap(makearray))
 
-// 	fmt.Println(myArray)
-// 	fmt.Println(mySlice)
+// xArray := [6]float64{1, 2, 3, 4, 5, 6}
+// splicearray := xArray[0:3]
+// morespace := append(splicearray, 4,5,6,7)
+// fmt.Println(cap(splicearray), cap(morespace))
 
 // 	// ***************************
 
@@ -68,4 +74,4 @@ package main
 // 	// mysteryValue := copy(destination, originalSlice)
 
 // 	// // fmt.Println("After Copy:", originalSlice, destination, mysteryValue)
-// }
+//}

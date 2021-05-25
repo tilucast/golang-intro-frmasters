@@ -1,17 +1,41 @@
 // // Uncomment the entire file
 
-package main
+//package main
 
-// import "fmt"
+//import "fmt"
 
-// func main() {
 
-// 	var userEmails map[int]string
+//func main() {
 
-// 	userEmails[1] = "user1@gmail.com"
-// 	userEmails[2] = "user2@gmail.com"
+	// var userEmails map[int]string = make(map[int]string)
 
-// 	fmt.Println(userEmails)
+	// userEmails[1] = "user1@gmail.com"
+	// userEmails[2] = "user2@gmail.com"
+
+	// fmt.Println(userEmails)
+
+	// userEmails := make(map[int]string)
+	// userEmails[1] = "Peste.com"
+
+	// userEmails := map[int]string{
+	// 	1: "peste@peste.com",
+	// 	2: "corno@corno.com",
+	// }
+
+	// fmt.Println(userEmails)
+
+	// checkemail, ok := userEmails[3]
+	// fmt.Println(checkemail, ok)
+
+	// if email, ok := userEmails[3]; ok {
+	// 	fmt.Println(email)
+	// } else {
+	// 	fmt.Println("No user encountered.")
+	// }
+
+	// delete(userEmails, 2)
+	// fmt.Println(userEmails)
+
 
 // 	// ****************************
 
@@ -105,4 +129,4 @@ package main
 // 		fmt.Printf("%s has an ID of %d.\n", v, k)
 // 	}
 // 	// ****************************
-// }
+//}
