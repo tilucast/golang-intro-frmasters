@@ -1,3 +1,6 @@
+### quick reminder for myself
+This course is just an introduction to go. We barely scratched the surface of what go can do.
+
 # Go for JavaScript Developers
 
 Prepared for Frontend Masters
